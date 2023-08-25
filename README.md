@@ -1,4 +1,4 @@
-![MasterHead](https://images.alphacoders.com/129/thumbbig-1298385.webp)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPyXUglStGUWivgufzpyhInEgKt7x-MOCcYVlRSOm4LYD0EhZhFLsZTA4_KOOVpugjt78&usqp=CAU)
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPyXUglStGUWivgufzpyhInEgKt7x-MOCcYVlRSOm4LYD0EhZhFLsZTA4_KOOVpugjt78&usqp=CAU)
 <h3 align="center">1948</h3>
 
 <p align="left"> <img src="https://camo.githubusercontent.com/3a1d48d2f68be4a547518d06177e77aecad34f844a44db361197def639c0c7ad/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4572656e7a79" alt="ustaac33" /> </p>
