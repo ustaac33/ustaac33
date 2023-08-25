@@ -1,4 +1,4 @@
-[![MasterHead] (https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSImuVwZm8OFYCORzLfTz4CkhRZdmrlCcyAonm7eHWAADKZSN6d)
+
 <h3 align="center">1948</h3>
 
 <h3 align="left">Connect with me:</h3>
