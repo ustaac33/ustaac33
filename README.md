@@ -1,9 +1,9 @@
-<h3 align="center">Hindistan'dan tutkulu bir ön uç geliştiricisi</h3>
+<h3 align="center">1948</h3>
 
 <h3 align="left">Benimle bağlantı kurun:</h3>
 <p align="left">
-<a href="https:/ /dev.to/ustaac33" target = "boş"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons /Social/devto.svg" alt = "ustaac33" height = "30" genişlik = "40" /></a>
-<a href = "https://instagram.com/ustaac33" target = "blank">< img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt = "ustaac33" yükseklik = "30" genişlik = "40" /></a>
+<a href="https://dev.to/ ustaac33" target = "boş"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto. svg" alt = "ustaac33" height = "30" genişlik = "40" /></a>
+<a href = "https://instagram.com/ustaac33" target = "blank"><img align = "center " src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt = "ustaac33" height = "30" genişlik = "40" /></a>
 <a href = "https://www.leetcode.com/ustaac33" target = "blank"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme -generator/master/src/images/icons/Social/leet-code.svg" alt = "ustaac33" height = "30" genişlik = "40" /></a> <a href = "https://
 discord .gg/ustaa" target = "boş"><img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social /discord.svg" alt = "ustaa" height = "30" width = "40" /></a> </p>
 <
