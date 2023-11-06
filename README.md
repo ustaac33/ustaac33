@@ -6,9 +6,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/ustaac33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ustaac33" height="30" width="40" /></a>
-<a href="https://instagram.com/ustaac33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ustaac33" height="30" width="40" /></a>
+<a href="https://instagram.com/ustaac33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ustaa1948" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ustaac33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ustaac33" height="30" width="40" /></a>
-<a href="https://discord.gg/ustaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ustaa" height="30" width="40" /></a>
+<a href="https://discord.gg/ustaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="atlanta" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
